@@ -21,7 +21,7 @@ Foi desenvolvida utilizando Spring Boot, JPA/Hibernate, H2 Database e Swagger/Op
 
 A API possui interface visual no Swagger:
 
-[DOCUMENTAÇÃO DA APPLICAÇÃO NO SWAGGER](https://exswagger.onrender.com/swagger-ui/index.html)
+[DOCUMENTAÇÃO DA APLICAÇÃO NO SWAGGER](https://exswagger.onrender.com/swagger-ui/index.html)
              
 ## Tutorial oficial do Swagger: 
 [DOCUMENTAÇÃO DO SWAGGER](https://swagger.io/docs/ )
