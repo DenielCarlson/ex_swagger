@@ -1,4 +1,4 @@
-# API de Alunos e Cursos – Spring Boot (H2 + Swagger)
+# API de Alunos e Cursos – Spring Boot (Postgresql + Swagger + Render Deploy)
 
 Esta API gerencia Cursos e Alunos, permitindo operações CRUD completas.
 Foi desenvolvida utilizando Spring Boot, JPA/Hibernate, H2 Database e Swagger/OpenAPI para documentação.
