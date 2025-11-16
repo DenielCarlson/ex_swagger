@@ -23,7 +23,4 @@ A API possui interface visual no Swagger:
 
 👉 Swagger UI:
 
-
-```bash
-http://localhost:8080/swagger-ui/index.html
-```
+[DOCUMENTAÇÃO NO SWAGGER](https://exswagger.onrender.com/swagger-ui/index.html)
