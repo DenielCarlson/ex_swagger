@@ -11,11 +11,13 @@ Foi desenvolvida utilizando Spring Boot, JPA/Hibernate, H2 Database e Swagger/Op
 
  - Spring Data JPA
 
- - H2 Database (memória)
+ - Postgresql Database
 
  - Springdoc Swagger UI
 
  - Java 17+
+ 
+ - Deploy no Render 
 
 ## Documentação da API
 
